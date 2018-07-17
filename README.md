@@ -29,7 +29,7 @@ echo $validation['status'];
 
 #### Additional User Contributed Wrappers in PHP
 
-NoMoreHours: (Laravel) https://github.com/CoupleCo/knowmore-zerobounce
+v1: NoMoreHours: (Laravel) https://github.com/CoupleCo/knowmore-zerobounce
 
 
 **Properties and possible values returned by:**
