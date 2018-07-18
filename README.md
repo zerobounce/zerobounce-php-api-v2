@@ -33,7 +33,7 @@ v1: NoMoreHours: (Laravel) https://github.com/CoupleCo/knowmore-zerobounce
 
 
 **Properties and possible values returned by:**
-1. <b><i>ValidateEmail</b></i> method
+1. <b><i>validation</b></i> method
   
 |<b>Property</b>|<b>Possible Values</b> 
 |:--- |:--- 
@@ -57,7 +57,7 @@ city |The city the email signed up when ip address is provided or [null].
 zipcode |The zipcode the email signed up when ip address is provided or [null].
 processed_at |The UTC time the email was validated.
 
-2. <b><i>GetCredit</b></i> method
+2. <b><i>get_credits</b></i> method
   
 |<b>Property</b>|<b>Possible Values</b> 
 |:--- |:--- 
