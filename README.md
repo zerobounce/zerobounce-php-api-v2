@@ -34,7 +34,7 @@ https://github.com/zerobounce-llc/zero-bounce-php-sdk-setup
 
 #### Additional User Contributed Wrappers in PHP
 
-v1: NoMoreHours: (Laravel) https://github.com/CoupleCo/knowmore-zerobounce
+v1: NoMoreHours: (Laravel) https://github.com/CoupleCo/knowmore-zerobounce<br>
 v2: Twisted1919: https://github.com/twisted1919/zerobounce-php/tree/master/example
 
 
