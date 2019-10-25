@@ -27,9 +27,15 @@ echo $validation['status'];
 
 ```
 
+#### Additional ZeroBounce Wrappers in PHP
+
+https://github.com/zerobounce-llc/zero-bounce-php-sdk-setup
+
+
 #### Additional User Contributed Wrappers in PHP
 
 v1: NoMoreHours: (Laravel) https://github.com/CoupleCo/knowmore-zerobounce
+v2: Twisted1919: https://github.com/twisted1919/zerobounce-php/tree/master/example
 
 
 **Properties and possible values returned by:**
