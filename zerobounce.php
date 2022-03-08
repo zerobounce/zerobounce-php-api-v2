@@ -14,7 +14,7 @@ class ZeroBounceAPI {
     $url = "{$this->baseURL}{$method}?{$paramsURI}";
     if(!isset($this->ch)){
       $this->ch = curl_init();
-      curl_setopt($ch, CURLOPT_SSLVERSION, 6);
+      curl_setopt($this->ch, CURLOPT_SSLVERSION, 6);
       curl_setopt($this->ch, CURLOPT_RETURNTRANSFER, true);
       curl_setopt($this->ch, CURLOPT_CONNECTTIMEOUT, 15);
       curl_setopt($this->ch, CURLOPT_TIMEOUT, 150);
